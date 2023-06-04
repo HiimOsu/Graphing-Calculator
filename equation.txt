@@ -1,0 +1,6 @@
+cos(x)
+sin(x)
+tan(x)
+x^(cos(x *pi))
+ln(x)
+abs(csc(x)
